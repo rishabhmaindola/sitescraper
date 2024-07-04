@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Pytest
+.cache
+
+# MySQL
+*.db
+*.sql
+*.sqlite
+
+# Caches
+*.log
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store

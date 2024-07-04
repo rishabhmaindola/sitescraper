@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: bisque;
+}
+
+.navbar-brand{
+    color: beige;
+}
+
+.container {
+    width: 80%;
+    padding: 20px;  
+}
+
+div.card {
+    width: 100%;
+    height: auto;
+    padding: 20px;
+}
+
+.list-group{
+    width: 100%;
+    display: inline-block;
+}
+.list-group-item{
+    width: 100%;
+}
+
+#endpoints {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+code {
+    cursor: pointer;
+}
